@@ -2,7 +2,7 @@
 
 # Explorer - Projeto 01
 
-![preview](./images/preview_projeto01.png)
+![preview](./images/prewiev_projeto01.png)
 
 > Explorer - Rocketseat
 
