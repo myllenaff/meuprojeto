@@ -2,7 +2,7 @@
 
 # Explorer - Projeto 01
 
-![preview](./.github/preview_projeto01.png)
+![preview](./images/preview_projeto01.png)
 
 > Explorer - Rocketseat
 
